@@ -35,7 +35,7 @@
     "versionFirst": "5.4.1",
     "siteFonts": [],
     "favicon": false,
-    "mbrsiteDomain": "qifga8kcfw",
+    "mbrsiteDomain": "evnethpvzb",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -43,7 +43,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 4,
     "versionPublish": "5.4.1"
   },
